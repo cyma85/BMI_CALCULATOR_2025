@@ -1,0 +1,11 @@
+# File: requirements.txt
+# Minimal requirements for running this Gradio app. Hugging Face Spaces will use this file automatically when building the space.
+
+
+gradio
+numpy
+
+
+# (Optional) If you want to pin versions, replace the lines above with e.g.:
+# gradio>=3.0
+# numpy>=1.21
